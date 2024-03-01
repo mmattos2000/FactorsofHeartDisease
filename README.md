@@ -1,5 +1,8 @@
 # Factors of Heart Disease Research Project
 
+![image](https://github.com/mmattos2000/FactorsofHeartDisease/assets/99051624/5532f2bd-21b0-4ace-9f68-387fa3ed58f5)
+
+
 Heart disease stands as a leading cause of death in the United States, claiming approximately 659,000 lives each year, with one person succumbing to it every 36 seconds. Given its prevalence, it's likely that most individuals have encountered someone in their social circle affected by this condition. Motivated by this widespread impact, I embarked on a research project centered around exploring the potential relationship between body mass index (BMI), sleep duration, and the risk of heart disease.
 
 ## Motivation
