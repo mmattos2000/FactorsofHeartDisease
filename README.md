@@ -1,4 +1,4 @@
-# Factors of Heart Disease Research Project
+# Preventing Heart Disease
 
 ![image](https://github.com/mmattos2000/FactorsofHeartDisease/assets/99051624/5532f2bd-21b0-4ace-9f68-387fa3ed58f5)
 
